@@ -1,0 +1,53 @@
+[
+    {
+      "id": 101,
+      "cover_img": "https://i.ibb.co.com/pxwgGRF/flat-lay-desktop-with-notebook-pizza.jpg",
+      "title": "The Hidden Gems of Urban Architecture",
+      "author": "Sarah Johnson",
+      "author_img": "https://i.ibb.co.com/6vzgzcQ/307ce493-b254-4b2d-8ba4-d12c080d6651.jpg",
+      "posted_date": "October 15, 2024",
+      "reading_time": 7,
+      "hashtags": ["#architecture", "#urban", "#design", "#citylife", "#creativity"]
+    },
+    {
+      "id": 102,
+      "cover_img": "https://i.ibb.co.com/zm31H1K/flat-lay-desktop-with-notebook-succulent.jpg",
+      "title": "5 Easy Vegan Recipes for Busy Weekdays",
+      "author": "Michael Rodriguez",
+      "author_img": "https://i.ibb.co.com/6vzgzcQ/307ce493-b254-4b2d-8ba4-d12c080d6651.jpg",
+      "posted_date": "October 20, 2024",
+      "reading_time": 5,
+      "hashtags": ["#vegan", "#recipes", "#healthyfood", "#quickmeals", "#plantbased"]
+    },
+    {
+      "id": 103,
+      "cover_img": "https://i.ibb.co.com/1vj0JGR/high-angle-desktop-with-laptop-copy-space.jpg",
+      "title": "The Future of AI: Trends to Watch in 2025",
+      "author": "Dr. Emily Baker",
+      "author_img": "https://i.ibb.co.com/6vzgzcQ/307ce493-b254-4b2d-8ba4-d12c080d6651.jpg",
+      "posted_date": "October 18, 2024",
+      "reading_time": 9,
+      "hashtags": ["#AI", "#technology", "#futuretrends", "#innovation", "#machinelearning"]
+    },
+    {
+      "id": 104,
+      "cover_img": "https://i.ibb.co.com/5rFWtLW/top-view-desk-concept-with-coffee.jpg",
+      "title": "Exploring the Wonders of the Amazon Rainforest",
+      "author": "David Nguyen",
+      "author_img": "https://i.ibb.co.com/6vzgzcQ/307ce493-b254-4b2d-8ba4-d12c080d6651.jpg",
+      "posted_date": "October 10, 2024",
+      "reading_time": 8,
+      "hashtags": ["#travel", "#amazon", "#adventure", "#nature", "#ecotourism"]
+    },
+    {
+      "id": 105,
+      "cover_img": "https://i.ibb.co.com/5rFWtLW/top-view-desk-concept-with-coffee.jpg",
+      "title": "How Minimalism Changed My Life: A Journey to Less",
+      "author": "Olivia Carter",
+      "author_img": "https://i.ibb.co.com/6vzgzcQ/307ce493-b254-4b2d-8ba4-d12c080d6651.jpg",
+      "posted_date": "October 22, 2024",
+      "reading_time": 6,
+      "hashtags": ["#minimalism", "#lifestyle", "#declutter", "#simplicity", "#wellbeing"]
+    }
+  ]
+  
